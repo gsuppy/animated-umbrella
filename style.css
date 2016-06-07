@@ -1,0 +1,31 @@
+#adder {
+	background-color:#008CBA;
+	color: white;
+	font-size: 15px;
+	border-radius: 8px;
+}
+
+ul {
+	list-style: none; 
+	padding: 0;
+	 margin: 0;
+}
+
+li {
+	border: 1 px solid #ccc;
+	background: #eee;
+	padding: 5px 10px;
+	color: #000;
+}
+.task{
+	width: 300px;
+}
+
+h1 {
+	color: darkblue;
+	font-family: verdana, georgia, sans-serif;
+}
+
+.striked {
+	text-decoration: line-through;
+}
